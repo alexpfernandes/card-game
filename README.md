@@ -1,2 +1,2 @@
 # card-game
-a generic card game project, starting with Go Fish, expanding from there
+This is a project intended to serve as an opportunity to learn github, get practice thinking in object-oriented programming, and write my first functional game. I will start by implementing a command line version of the card game Go Fish, and from there, expand into games with more complicated rules, integrating a more enjoyable interface for the game, and eventually creating a simple stand-alone application for it. I envision the basic process as 1) developing the underlying class structure of the game, 2) writing an engine to enforce the rules of the game, and 3) developing the environment to play the game in.
